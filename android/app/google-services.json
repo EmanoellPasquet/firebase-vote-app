@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597931064933",
+    "firebase_url": "https://baby-names-db-76f73.firebaseio.com",
+    "project_id": "baby-names-db-76f73",
+    "storage_bucket": "baby-names-db-76f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597931064933:android:8b01338f7b02dcc78b108c",
+        "android_client_info": {
+          "package_name": "pasquet.ucsal.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597931064933-a7aep3gu64ptllibie9kr74rhvjro60k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZPyMGxOU3xCQHDPPZhTK2gW72gCx0dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597931064933-a7aep3gu64ptllibie9kr74rhvjro60k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
