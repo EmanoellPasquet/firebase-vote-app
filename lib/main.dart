@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
             // ignore: deprecated_member_use
               title: TextStyle(
                   color: Colors.white
-              ) 
+              )
           )
       ),
     );
